@@ -1,6 +1,11 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Nlkuberka/BevelGearWristModule.git:Wrist.groovy": [
+      "https://github.com/Nlkuberka/BevelGearWristModule.git",
+      "Wrist.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
